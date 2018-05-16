@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_classic.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\xml\\stub_classic.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\global_tracker.xml",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\generated\\res\\google-services\\dev19\\debug\\xml\\global_tracker.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\1f2c8cc99dbc6cb6786c4667f7b99e14e4757d75\\output\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\xml\\stub_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\xml\\stub_material.xml"
+    }
+]

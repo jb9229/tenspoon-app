@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-messaging-9.8.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/5da68fd08ef0fe8953fd0931089164041f746554/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5da68fd08ef0fe8953fd0931089164041f746554/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
