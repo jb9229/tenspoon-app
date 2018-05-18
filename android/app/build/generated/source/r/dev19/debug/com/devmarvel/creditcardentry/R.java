@@ -32,14 +32,14 @@ public final class R {
     }
     public static final class drawable {
         public static final int background_white = 0x7f020055;
-        public static final int cc_back = 0x7f020061;
-        public static final int ic_card_amex = 0x7f0200a0;
-        public static final int ic_card_diners = 0x7f0200a1;
-        public static final int ic_card_discover = 0x7f0200a2;
-        public static final int ic_card_jcb = 0x7f0200a3;
-        public static final int ic_card_mastercard = 0x7f0200a4;
-        public static final int ic_card_placeholder = 0x7f0200a5;
-        public static final int ic_card_visa = 0x7f0200a6;
+        public static final int cc_back = 0x7f020064;
+        public static final int ic_card_amex = 0x7f0200a3;
+        public static final int ic_card_diners = 0x7f0200a4;
+        public static final int ic_card_discover = 0x7f0200a5;
+        public static final int ic_card_jcb = 0x7f0200a6;
+        public static final int ic_card_mastercard = 0x7f0200a7;
+        public static final int ic_card_placeholder = 0x7f0200a8;
+        public static final int ic_card_visa = 0x7f0200a9;
     }
     public static final class id {
         public static final int cc_card = 0x7f0f0005;
@@ -54,9 +54,9 @@ public final class R {
     }
     public static final class string {
         public static final int CreditCardNumberHelp = 0x7f090057;
-        public static final int ExpirationDateHelp = 0x7f090058;
-        public static final int SecurityCodeHelp = 0x7f090059;
-        public static final int ZipHelp = 0x7f09005a;
+        public static final int ExpirationDateHelp = 0x7f09005b;
+        public static final int SecurityCodeHelp = 0x7f09005c;
+        public static final int ZipHelp = 0x7f09005d;
     }
     public static final class style {
         public static final int AppBaseTheme = 0x7f0b000b;

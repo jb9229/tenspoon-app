@@ -20,44 +20,40 @@
         "source": "C:\\Users\\test\\.android\\build-cache\\75cfb0381de19f5d75002e6a62cc5af0f5063749\\output\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
-        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\fb5077e0656d54f714a1f315f7051934f52fb174\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\fb5077e0656d54f714a1f315f7051934f52fb174\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\card_input_custom_background.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\drawable\\card_input_custom_background.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\card_input_custom_background.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\drawable\\card_input_custom_background.xml"
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\stp_card_form_back.png",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\drawable\\stp_card_form_back.png"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\drawable\\stp_card_form_back.png"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\spinner_background_holo_dark.xml",
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\drawable\\spinner_background_holo_dark.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\spinner_background_holo_dark.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\drawable\\spinner_background_holo_dark.xml"
-    },
-    {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_button_login_background.xml",
         "source": "C:\\Users\\test\\.android\\build-cache\\04248e9e1e9509ef7ab171e26e9ebff88726606f\\output\\res\\drawable\\com_facebook_button_login_background.xml"
-    },
-    {
-        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
@@ -77,7 +73,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\stp_card_form_front.png",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\drawable\\stp_card_form_front.png"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\drawable\\stp_card_form_front.png"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -101,7 +97,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\btn_default_holo_dark.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\drawable\\btn_default_holo_dark.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\drawable\\btn_default_holo_dark.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
@@ -109,7 +105,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\loading_status_bar_background.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\drawable\\loading_status_bar_background.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\drawable\\loading_status_bar_background.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
@@ -138,10 +134,6 @@
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\background_white.xml",
         "source": "C:\\Users\\test\\.android\\build-cache\\48c1af4dea05d439e13279f299b6ce9f113e7be1\\output\\res\\drawable\\background_white.xml"
-    },
-    {
-        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_dialog_material_background.xml",
@@ -233,7 +225,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\header_dark.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\drawable\\header_dark.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\drawable\\header_dark.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\splash_background.xml",
@@ -241,7 +233,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\card_512.png",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\drawable\\card_512.png"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\drawable\\card_512.png"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -281,7 +273,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\edit_text_holo_dark.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\drawable\\edit_text_holo_dark.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\drawable\\edit_text_holo_dark.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",

@@ -5,11 +5,11 @@
   xmlns:tools="http://schemas.android.com/tools">
 
   <permission
-    android:name="jb.tenspoon.permission.C2D_MESSAGE"
+    android:name="jb.rn.tenspoon.permission.C2D_MESSAGE"
     android:protectionLevel="signature"/>
 
   <!-- These are required permissions to make the app run -->
-  <uses-permission android:name="jb.tenspoon.permission.C2D_MESSAGE" />
+  <uses-permission android:name="jb.rn.tenspoon.permission.C2D_MESSAGE" />
   <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
@@ -56,7 +56,7 @@
       android:screenOrientation="portrait"
       android:theme="@android:style/Theme.Translucent.NoTitleBar">
       <intent-filter>
-        <data android:scheme="exp26398b8c339b4673874738911ab9b5a8"/>
+        <data android:scheme="exp6460277783724f31b05785ff798f0e18"/>
 
         <action android:name="android.intent.action.VIEW"/>
 
@@ -102,13 +102,13 @@
 
     <activity android:name="com.facebook.react.devsupport.DevSettingsActivity"/>
     <!-- ADD DEV SETTINGS HERE -->
-    <activity android:name="abi27_0_0.com.facebook.react.devsupport.DevSettingsActivity"/>
     <activity android:name="abi26_0_0.com.facebook.react.devsupport.DevSettingsActivity"/>
     <activity android:name="abi25_0_0.com.facebook.react.devsupport.DevSettingsActivity"/>
     <activity android:name="abi24_0_0.com.facebook.react.devsupport.DevSettingsActivity"/>
     <activity android:name="abi23_0_0.com.facebook.react.devsupport.DevSettingsActivity"/>
     <activity android:name="abi22_0_0.com.facebook.react.devsupport.DevSettingsActivity"/>
     <activity android:name="abi21_0_0.com.facebook.react.devsupport.DevSettingsActivity"/>
+    <activity android:name="abi20_0_0.com.facebook.react.devsupport.DevSettingsActivity"/>
 
     <activity
       android:name=".ExponentDevActivity"
@@ -132,7 +132,7 @@
         <action android:name="android.intent.action.VIEW"/>
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
-        <data android:scheme="jb.tenspoon" android:path="oauthredirect"/>
+        <data android:scheme="jb.rn.tenspoon" android:path="oauthredirect"/>
       </intent-filter>
     </activity>
 
@@ -169,9 +169,27 @@
       android:label="@string/app_name"
       android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
+    <activity android:name=".lockscreen.LockScreenActivity" />
+
+    <activity android:name=".lockscreen.UnlockActivity"
+        android:label="tenspoon"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        />
+
     <service
       android:name=".ExponentIntentService"
       android:exported="false" />
+
+    <service
+        android:name=".lockscreen.LockScreenService"
+        android:enabled="true"
+        android:exported="true" />
+
+    <service
+        android:name=".lockscreen.LockScreenOpenService"
+        android:enabled="true"
+        android:exported="true" />
+
 
     <!-- Analytics -->
     <receiver
@@ -181,6 +199,11 @@
         <action android:name="com.android.vending.INSTALL_REFERRER" />
       </intent-filter>
     </receiver>
+
+    <receiver
+        android:name=".lockscreen.LockScreenReceiver"
+        android:enabled="true"
+        android:exported="true"></receiver>
 
     <!--
     This crashes: https://code.google.com/p/analytics-issues/issues/detail?id=667
@@ -210,7 +233,7 @@
         <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
         <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
 
-        <category android:name="jb.tenspoon"/>
+        <category android:name="jb.rn.tenspoon"/>
       </intent-filter>
     </receiver>
 
@@ -229,11 +252,9 @@
       </intent-filter>
     </service>
     <service
-      android:name=".gcm.GcmRegistrationIntentService"
+      android:name=".gcm.RegistrationIntentService"
       android:exported="false">
     </service>
-
-    <!-- ADD FCM CONFIG HERE -->
 
     <!-- ImagePicker native module -->
     <activity

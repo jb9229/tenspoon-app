@@ -1,7 +1,10 @@
 package host.exp.exponent;
 
+import android.content.Intent;
 import android.os.Bundle;
 
+import com.facebook.react.HeadlessJsTaskService;
+import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactPackage;
 
 import java.util.ArrayList;
@@ -10,12 +13,14 @@ import java.util.List;
 
 import host.exp.exponent.generated.DetachBuildConstants;
 import host.exp.exponent.experience.DetachActivity;
+import host.exp.exponent.lockscreen.LockScreenOpenService;
+import host.exp.exponent.lockscreen.LockScreenService;
 
 public class MainActivity extends DetachActivity {
 
   @Override
   public String publishedUrl() {
-    return "exp://exp.host/@jb9229/tenspoon-app";
+    return "exp://exp.host/@jb9229/tenspoon";
   }
 
   @Override
@@ -42,5 +47,29 @@ public class MainActivity extends DetachActivity {
   public Bundle initialProps(Bundle expBundle) {
     // Add extra initialProps here
     return expBundle;
+  }
+
+  public ReactInstanceManager getReactInstanceManager() {
+    return (ReactInstanceManager) mReactInstanceManager.get();
+  }
+
+
+  public void startLockViewService(){
+//    Intent listenIntent = new Intent(getApplication(), LockScreenOpenService.class);
+//    getApplicationContext().startService(listenIntent);
+//    HeadlessJsTaskService.acquireWakeLockNow(getApplicationContext());
+
+
+    Intent lockIntent   = new Intent(getApplication(), LockScreenService.class);
+    getApplicationContext().startService(lockIntent);
+  }
+
+
+  public void stopLockViewService(){
+//    Intent listenIntent = new Intent(getApplication(), LockScreenOpenService.class);
+//    getApplicationContext().stopService(listenIntent);
+
+    Intent lockIntent   = new Intent(getApplication(), LockScreenService.class);
+    getApplicationContext().stopService(lockIntent);
   }
 }

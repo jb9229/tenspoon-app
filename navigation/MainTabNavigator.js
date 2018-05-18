@@ -1,12 +1,16 @@
 import React from 'react';
 import { Platform } from 'react-native';
-import { Ionicons } from '@expo/vector-icons';
+import { Ionicons, MaterialCommunityIcons, Entypo } from '@expo/vector-icons';
+// import { TabNavigator, TabBarBottom } from 'react-navigation';
 import { createStackNavigator, createBottomTabNavigator } from 'react-navigation';
+
+import Colors from '../constants/Colors';
 
 import TabBarIcon from '../components/TabBarIcon';
 import HomeScreen from '../screens/HomeScreen';
-import LinksScreen from '../screens/LinksScreen';
+import DntHistoryScreen from '../screens/DntHistoryScreen';
 import SettingsScreen from '../screens/SettingsScreen';
+
 
 const HomeStack = createStackNavigator({
   Home: HomeScreen,
@@ -15,47 +19,37 @@ const HomeStack = createStackNavigator({
 HomeStack.navigationOptions = {
   tabBarLabel: 'Home',
   tabBarIcon: ({ focused }) => (
-    <TabBarIcon
+    <MaterialCommunityIcons
       focused={focused}
+      size={28}
       name={
         Platform.OS === 'ios'
           ? `ios-information-circle${focused ? '' : '-outline'}`
-          : 'md-information-circle'
+          : 'silverware-spoon'
       }
     />
   ),
 };
 
-const LinksStack = createStackNavigator({
-  Links: LinksScreen,
+const DntHistoryStack = createStackNavigator({
+  DntHis: DntHistoryScreen,
 });
 
-LinksStack.navigationOptions = {
-  tabBarLabel: 'Links',
+DntHistoryStack.navigationOptions = {
+  tabBarLabel: 'DntHis',
   tabBarIcon: ({ focused }) => (
-    <TabBarIcon
+    <Entypo
       focused={focused}
-      name={Platform.OS === 'ios' ? `ios-link${focused ? '' : '-outline'}` : 'md-link'}
+      size={28}
+      style={{ marginBottom: -3 }}
+      name={Platform.OS === 'ios' ? `ios-link${focused ? '' : '-outline'}` : 'bowl'}
     />
   ),
 };
 
-const SettingsStack = createStackNavigator({
-  Settings: SettingsScreen,
-});
 
-SettingsStack.navigationOptions = {
-  tabBarLabel: 'Settings',
-  tabBarIcon: ({ focused }) => (
-    <TabBarIcon
-      focused={focused}
-      name={Platform.OS === 'ios' ? `ios-options${focused ? '' : '-outline'}` : 'md-options'}
-    />
-  ),
-};
 
 export default createBottomTabNavigator({
   HomeStack,
-  LinksStack,
-  SettingsStack,
+  DntHistoryStack
 });

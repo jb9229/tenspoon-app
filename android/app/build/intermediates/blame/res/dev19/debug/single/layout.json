@@ -17,7 +17,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\dev_loading_view.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\1f2c8cc99dbc6cb6786c4667f7b99e14e4757d75\\output\\res\\layout\\dev_loading_view.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\c724aa459e646e9f1752263c83128fd56d17dfd3\\output\\res\\layout\\dev_loading_view.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -29,7 +29,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\surface_view.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\34390bf74d8de3f584069acd1778c2d127f4be2f\\output\\res\\layout\\surface_view.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\fb0877fe21bf250fb326e522d2ae8ddf6c7aa46f\\output\\res\\layout\\surface_view.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\abc_search_view.xml",
@@ -81,15 +81,11 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\payment_form_fragment.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\layout\\payment_form_fragment.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\layout\\payment_form_fragment.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\expo_media_controller.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\layout\\expo_media_controller.xml"
-    },
-    {
-        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\a466e8610b56030a095bcd3695a73d05ab63599d\\output\\res\\layout\\notification_action.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\layout\\expo_media_controller.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\notification_template_lines_media.xml",
@@ -98,6 +94,10 @@
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\exo_playback_control_view.xml",
         "source": "C:\\Users\\test\\.android\\build-cache\\62a44c04d497f241e2e4d0dd9565696d71b995dd\\output\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\ad_side_view.xml",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\src\\main\\res\\layout\\ad_side_view.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\com_facebook_login_fragment.xml",
@@ -109,7 +109,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\loading_view.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\layout\\loading_view.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\layout\\loading_view.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -141,7 +141,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\redbox_view.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\1f2c8cc99dbc6cb6786c4667f7b99e14e4757d75\\output\\res\\layout\\redbox_view.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\c724aa459e646e9f1752263c83128fd56d17dfd3\\output\\res\\layout\\redbox_view.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
@@ -162,10 +162,6 @@
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\a466e8610b56030a095bcd3695a73d05ab63599d\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\messenger_button_send_blue_round.xml",
@@ -201,7 +197,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\oauth_webview_activity.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\layout\\oauth_webview_activity.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\layout\\oauth_webview_activity.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
@@ -210,6 +206,10 @@
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\tooltip.xml",
         "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\lock_screen_control.xml",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\src\\main\\res\\layout\\lock_screen_control.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\notification_template_media_custom.xml",
@@ -228,8 +228,12 @@
         "source": "C:\\Users\\test\\.android\\build-cache\\dc12390b5184438e3a6c140d8180dca9bdbb1016\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\activity_banner_admob.xml",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\src\\main\\res\\layout\\activity_banner_admob.xml"
+    },
+    {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\redbox_item_title.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\1f2c8cc99dbc6cb6786c4667f7b99e14e4757d75\\output\\res\\layout\\redbox_item_title.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\c724aa459e646e9f1752263c83128fd56d17dfd3\\output\\res\\layout\\redbox_item_title.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\abc_action_menu_layout.xml",
@@ -250,6 +254,10 @@
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\test\\.android\\build-cache\\a466e8610b56030a095bcd3695a73d05ab63599d\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\ad_ts_default.xml",
+        "source": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\src\\main\\res\\layout\\ad_ts_default.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\messenger_button_send_blue_large.xml",
@@ -293,11 +301,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\redbox_item_frame.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\1f2c8cc99dbc6cb6786c4667f7b99e14e4757d75\\output\\res\\layout\\redbox_item_frame.xml"
-    },
-    {
-        "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\a466e8610b56030a095bcd3695a73d05ab63599d\\output\\res\\layout\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\c724aa459e646e9f1752263c83128fd56d17dfd3\\output\\res\\layout\\redbox_item_frame.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\abc_dialog_title_material.xml",
@@ -305,7 +309,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\fps_view.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\1f2c8cc99dbc6cb6786c4667f7b99e14e4757d75\\output\\res\\layout\\fps_view.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\c724aa459e646e9f1752263c83128fd56d17dfd3\\output\\res\\layout\\fps_view.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\abc_screen_simple.xml",
@@ -313,7 +317,7 @@
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\payment_form_fragment_two.xml",
-        "source": "C:\\Users\\test\\.android\\build-cache\\df15eba5fea5d2a8a2c28eec6df836fa56d201b2\\output\\res\\layout\\payment_form_fragment_two.xml"
+        "source": "C:\\Users\\test\\.android\\build-cache\\072ba1a5191abd808cf28ae0af19c426fa44faa9\\output\\res\\layout\\payment_form_fragment_two.xml"
     },
     {
         "merged": "D:\\work\\project\\1_tenspoon\\source\\app\\tenspoon-app\\android\\app\\build\\intermediates\\res\\merged\\dev19\\debug\\layout\\abc_expanded_menu_layout.xml",
