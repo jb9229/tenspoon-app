@@ -33,23 +33,23 @@ export default class HomeScreen extends React.Component {
   // }
 
   _handleToggleSwitch = () =>{
-      this.setState(state => ({
-        switchValue: !state.switchValue,
-      }));
-
-
       if(this.state.switchValue)
+      {
+        NativeModules.NativeMenu.stopLockScreenService();
+        console.log("stopLockViewService();")
+      }
+      else
       {
         NativeModules.NativeMenu.startLockScreenService();
         color= Colors.tabIconSelected
         console.log("startLockViewService()")
       }
-      else
-      {
-        NativeModules.NativeMenu.stopLockScreenService();
-        console.log("stopLockViewService();")
-      }
+
+      this.setState(state => ({
+        switchValue: !state.switchValue,
+      }));
   }
+
 
   render() {
     let iconName  = 'foot';

@@ -34,8 +34,8 @@
       <file leaf-file-name="LockScreenActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/host/exp/exponent/lockscreen/LockScreenActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="701" column="17" lean-forward="true" selection-start-line="701" selection-start-column="17" selection-end-line="701" selection-end-column="17" />
+            <state relative-caret-position="103">
+              <caret line="691" column="17" lean-forward="true" selection-start-line="691" selection-start-column="17" selection-end-line="691" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3457#3553#0" expanded="false" />
@@ -6181,10 +6181,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -6208,17 +6207,13 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="exponent" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="lockscreen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -6430,7 +6425,6 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.30665952" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3735363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -6438,9 +6432,8 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22395274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.73067915" sideWeight="0.6933405" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10580021" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.73067915" sideWeight="0.6933405" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -6453,6 +6446,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -6553,7 +6548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6692,7 +6686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6832,14 +6825,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/maven/host/exp/exponent/expoview/27.0.0/expoview-27.0.0-sources.jar!/host/exp/exponent/experience/DetachActivity.java">
@@ -6907,7 +6900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="35" column="3" lean-forward="false" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6934,7 +6926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6942,10 +6933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1150">
           <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-          <folding>
-            <element signature="e#1430#1431#0" expanded="false" />
-            <element signature="e#1482#1483#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -6957,19 +6944,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/host/exp/exponent/generated/DetachBuildConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-26/android.jar!/android/os/Build.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="71" column="32" lean-forward="false" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6977,43 +6955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="137" column="22" lean-forward="false" selection-start-line="212" selection-start-column="54" selection-end-line="212" selection-end-column="71" />
-          <folding>
-            <element signature="docComment;field#client#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="e#3033#3079#0" expanded="false" />
-            <element signature="e#4623#4681#0" expanded="false" />
-            <element signature="class#5104:5948" expanded="false" />
-            <element signature="method#onDrawerClosed#0;class#5104:5948" expanded="false" />
-            <element signature="method#onDrawerOpened#0;class#5104:5948" expanded="false" />
-            <element signature="e#6459#6485#0" expanded="false" />
-            <element signature="e#8204#8276#0" expanded="false" />
-            <element signature="method#onKeyDown#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="docComment;method#populateAppInstallAdView#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#populateAppInstallAdView#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="e#11064#11131#0" expanded="false" />
-            <element signature="docComment;method#populateContentAdView#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#populateContentAdView#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="docComment;method#refreshAd#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#refreshAd#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#adAction#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#distoryAdview#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="docComment;method#getIndexApiAction#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#getIndexApiAction#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="e#18279#18325#0" expanded="false" />
-            <element signature="method#onStart#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="e#18749#18821#0" expanded="false" />
-            <element signature="method#onStop#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="e#19070#19142#0" expanded="false" />
-            <element signature="method#setVerticalAdImageArea#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="class#CustomAdapter#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#CustomAdapter#0;class#CustomAdapter#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#getView#0;class#CustomAdapter#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="e#22145#22162#0" expanded="false" />
-            <element signature="method#onTouch#0;class#MyOnTouchListener#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="class#MyOnSeekBarChangeListener#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#onProgressChanged#0;class#MyOnSeekBarChangeListener#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#onStartTrackingTouch#0;class#MyOnSeekBarChangeListener#0;class#LockScreenActivity#0" expanded="false" />
-            <element signature="method#onStopTrackingTouch#0;class#MyOnSeekBarChangeListener#0;class#LockScreenActivity#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -7021,7 +6962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="78" column="16" lean-forward="false" selection-start-line="78" selection-start-column="16" selection-end-line="90" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -7039,10 +6979,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/host/exp/exponent/generated/DetachBuildConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/host/exp/exponent/lockscreen/LockScreenActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="701" column="17" lean-forward="true" selection-start-line="701" selection-start-column="17" selection-end-line="701" selection-end-column="17" />
+        <state relative-caret-position="103">
+          <caret line="691" column="17" lean-forward="true" selection-start-line="691" selection-start-column="17" selection-end-line="691" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3457#3553#0" expanded="false" />
